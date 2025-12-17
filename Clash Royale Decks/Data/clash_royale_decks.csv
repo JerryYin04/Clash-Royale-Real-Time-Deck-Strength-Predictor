@@ -1,0 +1,2065 @@
+deck_id,deck_name,card_name,deck_win_rate
+1,Deck 1,Barbarian Barrel,66.0
+1,Deck 1,Electro Spirit,66.0
+1,Deck 1,Fireball,66.0
+1,Deck 1,Fisherman,66.0
+1,Deck 1,Hunter,66.0
+1,Deck 1,Monk,66.0
+1,Deck 1,Royal Ghost,66.0
+1,Deck 1,Royal Giant,66.0
+2,Deck 2,Bandit,66.0
+2,Deck 2,Battle Ram,66.0
+2,Deck 2,Electro Wizard,66.0
+2,Deck 2,Fireball,66.0
+2,Deck 2,Magic Archer,66.0
+2,Deck 2,P.E.K.K.A,66.0
+2,Deck 2,Royal Ghost,66.0
+2,Deck 2,Zap,66.0
+3,Deck 3,Baby Dragon,66.0
+3,Deck 3,Giant Skeleton,66.0
+3,Deck 3,Golem,66.0
+3,Deck 3,Lightning,66.0
+3,Deck 3,Poison,66.0
+3,Deck 3,Three Musketeers,66.0
+3,Deck 3,Tornado,66.0
+3,Deck 3,Valkyrie,66.0
+4,Deck 4,Baby Dragon,66.0
+4,Deck 4,Giant Skeleton,66.0
+4,Deck 4,Golem,66.0
+4,Deck 4,Lightning,66.0
+4,Deck 4,Mini P.E.K.K.A,66.0
+4,Deck 4,Three Musketeers,66.0
+4,Deck 4,Tornado,66.0
+4,Deck 4,Valkyrie,66.0
+5,Deck 5,Dart Goblin,66.0
+5,Deck 5,Goblin Barrel,66.0
+5,Deck 5,Golden Knight,66.0
+5,Deck 5,Inferno Tower,66.0
+5,Deck 5,Royal Delivery,66.0
+5,Deck 5,Skeleton Army,66.0
+5,Deck 5,Skeleton Barrel,66.0
+5,Deck 5,The Log,66.0
+6,Deck 6,Earthquake,66.0
+6,Deck 6,Firecracker,66.0
+6,Deck 6,Hog Rider,66.0
+6,Deck 6,Mega Knight,66.0
+6,Deck 6,Minions,66.0
+6,Deck 6,Prince,66.0
+6,Deck 6,Skeleton Army,66.0
+6,Deck 6,The Log,66.0
+7,Deck 7,Baby Dragon,66.0
+7,Deck 7,Battle Healer,66.0
+7,Deck 7,Electro Dragon,66.0
+7,Deck 7,Elixir Golem,66.0
+7,Deck 7,Giant Skeleton,66.0
+7,Deck 7,Rocket,66.0
+7,Deck 7,Three Musketeers,66.0
+7,Deck 7,Tornado,66.0
+8,Deck 8,Electro Dragon,66.0
+8,Deck 8,Elixir Golem,66.0
+8,Deck 8,Firecracker,66.0
+8,Deck 8,Freeze,66.0
+8,Deck 8,Golden Knight,66.0
+8,Deck 8,Rocket,66.0
+8,Deck 8,Three Musketeers,66.0
+8,Deck 8,Tornado,66.0
+9,Deck 9,Electro Dragon,66.0
+9,Deck 9,Elixir Golem,66.0
+9,Deck 9,Firecracker,66.0
+9,Deck 9,Giant Skeleton,66.0
+9,Deck 9,Mirror,66.0
+9,Deck 9,Rocket,66.0
+9,Deck 9,Three Musketeers,66.0
+9,Deck 9,Tornado,66.0
+10,Deck 10,Baby Dragon,66.0
+10,Deck 10,Barbarian Barrel,66.0
+10,Deck 10,Cannon,66.0
+10,Deck 10,Electro Giant,66.0
+10,Deck 10,Golden Knight,66.0
+10,Deck 10,Knight,66.0
+10,Deck 10,Lightning,66.0
+10,Deck 10,Tornado,66.0
+11,Deck 11,Electro Spirit,66.0
+11,Deck 11,Fireball,66.0
+11,Deck 11,Fisherman,66.0
+11,Deck 11,Goblins,66.0
+11,Deck 11,Hunter,66.0
+11,Deck 11,Monk,66.0
+11,Deck 11,Royal Giant,66.0
+11,Deck 11,The Log,66.0
+12,Deck 12,Electro Spirit,66.0
+12,Deck 12,Fireball,66.0
+12,Deck 12,Fisherman,66.0
+12,Deck 12,Hunter,66.0
+12,Deck 12,Royal Ghost,66.0
+12,Deck 12,Royal Giant,66.0
+12,Deck 12,Skeletons,66.0
+12,Deck 12,The Log,66.0
+13,Deck 13,Electro Spirit,66.0
+13,Deck 13,Fireball,66.0
+13,Deck 13,Flying Machine,66.0
+13,Deck 13,Goblin Hut,66.0
+13,Deck 13,Ice Wizard,66.0
+13,Deck 13,Royal Ghost,66.0
+13,Deck 13,Royal Hogs,66.0
+13,Deck 13,Vines,66.0
+14,Deck 14,Electro Spirit,66.0
+14,Deck 14,Goblin Drill,66.0
+14,Deck 14,Goblin Gang,66.0
+14,Deck 14,Knight,66.0
+14,Deck 14,Princess,66.0
+14,Deck 14,Rocket,66.0
+14,Deck 14,Tesla,66.0
+14,Deck 14,The Log,66.0
+15,Deck 15,Elixir Golem,66.0
+15,Deck 15,Executioner,66.0
+15,Deck 15,Firecracker,66.0
+15,Deck 15,Giant Skeleton,66.0
+15,Deck 15,Lightning,66.0
+15,Deck 15,Mirror,66.0
+15,Deck 15,Poison,66.0
+15,Deck 15,Three Musketeers,66.0
+16,Deck 16,Arrows,66.0
+16,Deck 16,Bomber,66.0
+16,Deck 16,Dart Goblin,66.0
+16,Deck 16,Miner,66.0
+16,Deck 16,Minion Horde,66.0
+16,Deck 16,Mortar,66.0
+16,Deck 16,Skeleton Army,66.0
+16,Deck 16,Skeleton King,66.0
+17,Deck 17,Arrows,66.0
+17,Deck 17,Bomber,66.0
+17,Deck 17,Dark Prince,66.0
+17,Deck 17,Giant,66.0
+17,Deck 17,Lightning,66.0
+17,Deck 17,Mega Minion,66.0
+17,Deck 17,Prince,66.0
+17,Deck 17,Zap,66.0
+18,Deck 18,Balloon,66.0
+18,Deck 18,Barbarian Barrel,66.0
+18,Deck 18,Bomb Tower,66.0
+18,Deck 18,Giant Snowball,66.0
+18,Deck 18,Ice Golem,66.0
+18,Deck 18,Miner,66.0
+18,Deck 18,Musketeer,66.0
+18,Deck 18,Skeletons,66.0
+19,Deck 19,Cannon,66.0
+19,Deck 19,Hog Rider,66.0
+19,Deck 19,Ice Golem,66.0
+19,Deck 19,Ice Spirit,66.0
+19,Deck 19,Lightning,66.0
+19,Deck 19,Musketeer,66.0
+19,Deck 19,Skeletons,66.0
+19,Deck 19,The Log,66.0
+20,Deck 20,Arrows,66.0
+20,Deck 20,Battle Ram,66.0
+20,Deck 20,Electro Wizard,66.0
+20,Deck 20,Golden Knight,66.0
+20,Deck 20,Mother Witch,66.0
+20,Deck 20,P.E.K.K.A,66.0
+20,Deck 20,Royal Ghost,66.0
+20,Deck 20,Zap,66.0
+21,Deck 21,Cannon,66.0
+21,Deck 21,Golem,66.0
+21,Deck 21,Hog Rider,66.0
+21,Deck 21,Ice Wizard,66.0
+21,Deck 21,Knight,66.0
+21,Deck 21,Mother Witch,66.0
+21,Deck 21,Skeleton Army,66.0
+21,Deck 21,The Log,66.0
+22,Deck 22,Barbarian Barrel,66.0
+22,Deck 22,Goblinstein,66.0
+22,Deck 22,Ice Wizard,66.0
+22,Deck 22,Lightning,66.0
+22,Deck 22,Minions,66.0
+22,Deck 22,Mortar,66.0
+22,Deck 22,Royal Ghost,66.0
+22,Deck 22,Skeletons,66.0
+23,Deck 23,Berserker,66.0
+23,Deck 23,Bomber,66.0
+23,Deck 23,Cannon,66.0
+23,Deck 23,Fire Spirit,66.0
+23,Deck 23,Giant Snowball,66.0
+23,Deck 23,Goblin Drill,66.0
+23,Deck 23,Guards,66.0
+23,Deck 23,Poison,66.0
+24,Deck 24,Berserker,66.0
+24,Deck 24,Cannon,66.0
+24,Deck 24,Dart Goblin,66.0
+24,Deck 24,Fire Spirit,66.0
+24,Deck 24,Goblin Barrel,66.0
+24,Deck 24,Ice Spirit,66.0
+24,Deck 24,Valkyrie,66.0
+24,Deck 24,Wall Breakers,66.0
+25,Deck 25,Barbarian Barrel,66.0
+25,Deck 25,Fireball,66.0
+25,Deck 25,Heal Spirit,66.0
+25,Deck 25,Hunter,66.0
+25,Deck 25,Royal Ghost,66.0
+25,Deck 25,Royal Hogs,66.0
+25,Deck 25,Skeletons,66.0
+25,Deck 25,Three Musketeers,66.0
+26,Deck 26,Barbarian Barrel,66.0
+26,Deck 26,Dart Goblin,66.0
+26,Deck 26,Fireball,66.0
+26,Deck 26,Rascals,66.0
+26,Deck 26,Royal Ghost,66.0
+26,Deck 26,Skeleton Barrel,66.0
+26,Deck 26,Skeleton King,66.0
+26,Deck 26,Suspicious Bush,66.0
+27,Deck 27,Barbarian Barrel,66.0
+27,Deck 27,Dark Prince,66.0
+27,Deck 27,Electro Spirit,66.0
+27,Deck 27,Fireball,66.0
+27,Deck 27,Fisherman,66.0
+27,Deck 27,Hunter,66.0
+27,Deck 27,Royal Giant,66.0
+27,Deck 27,Skeletons,66.0
+28,Deck 28,Barbarian Barrel,66.0
+28,Deck 28,Cannon,66.0
+28,Deck 28,Earthquake,66.0
+28,Deck 28,Electro Spirit,66.0
+28,Deck 28,Firecracker,66.0
+28,Deck 28,Hog Rider,66.0
+28,Deck 28,Mighty Miner,66.0
+28,Deck 28,Skeletons,66.0
+29,Deck 29,Bowler,66.0
+29,Deck 29,Fireball,66.0
+29,Deck 29,Giant Snowball,66.0
+29,Deck 29,Goblin Barrel,66.0
+29,Deck 29,Goblin Drill,66.0
+29,Deck 29,Lightning,66.0
+29,Deck 29,Rocket,66.0
+29,Deck 29,Three Musketeers,66.0
+30,Deck 30,Barbarian Barrel,66.0
+30,Deck 30,Cannon Cart,66.0
+30,Deck 30,Goblin Gang,66.0
+30,Deck 30,Goblinstein,66.0
+30,Deck 30,Ice Wizard,66.0
+30,Deck 30,Lightning,66.0
+30,Deck 30,Mortar,66.0
+30,Deck 30,Royal Ghost,66.0
+31,Deck 31,Barbarian Barrel,66.0
+31,Deck 31,Boss Bandit,66.0
+31,Deck 31,Executioner,66.0
+31,Deck 31,Ram Rider,66.0
+31,Deck 31,Royal Ghost,66.0
+31,Deck 31,Skeletons,66.0
+31,Deck 31,Vines,66.0
+31,Deck 31,Zap,66.0
+32,Deck 32,Cannon Cart,66.0
+32,Deck 32,Goblin Gang,66.0
+32,Deck 32,Ice Wizard,66.0
+32,Deck 32,Mortar,66.0
+32,Deck 32,Poison,66.0
+32,Deck 32,Skeleton Barrel,66.0
+32,Deck 32,Skeleton King,66.0
+32,Deck 32,The Log,66.0
+33,Deck 33,Barbarian Barrel,66.0
+33,Deck 33,Battle Ram,66.0
+33,Deck 33,Golden Knight,66.0
+33,Deck 33,Heal Spirit,66.0
+33,Deck 33,Lumberjack,66.0
+33,Deck 33,Mother Witch,66.0
+33,Deck 33,Royal Ghost,66.0
+33,Deck 33,Zappies,66.0
+34,Deck 34,Cannon,66.0
+34,Deck 34,Fireball,66.0
+34,Deck 34,Golem,66.0
+34,Deck 34,Ice Spirit,66.0
+34,Deck 34,Mirror,66.0
+34,Deck 34,Musketeer,66.0
+34,Deck 34,Skeletons,66.0
+34,Deck 34,The Log,66.0
+35,Deck 35,Barbarian Barrel,66.0
+35,Deck 35,Battle Healer,66.0
+35,Deck 35,Electro Dragon,66.0
+35,Deck 35,Elixir Golem,66.0
+35,Deck 35,Executioner,66.0
+35,Deck 35,Goblin Cage,66.0
+35,Deck 35,Monk,66.0
+35,Deck 35,Tornado,66.0
+36,Deck 36,Bandit,66.0
+36,Deck 36,Bomber,66.0
+36,Deck 36,Cannon,66.0
+36,Deck 36,Fire Spirit,66.0
+36,Deck 36,Giant Snowball,66.0
+36,Deck 36,Goblin Drill,66.0
+36,Deck 36,Rocket,66.0
+36,Deck 36,Skeletons,66.0
+37,Deck 37,Executioner,66.0
+37,Deck 37,Goblins,66.0
+37,Deck 37,Hog Rider,66.0
+37,Deck 37,Ice Spirit,66.0
+37,Deck 37,Rocket,66.0
+37,Deck 37,The Log,66.0
+37,Deck 37,Tornado,66.0
+37,Deck 37,Valkyrie,66.0
+38,Deck 38,Barbarians,66.0
+38,Deck 38,Flying Machine,66.0
+38,Deck 38,Goblin Curse,66.0
+38,Deck 38,Lava Hound,66.0
+38,Deck 38,Miner,66.0
+38,Deck 38,Phoenix,66.0
+38,Deck 38,Tombstone,66.0
+38,Deck 38,Zap,66.0
+39,Deck 39,Arrows,66.0
+39,Deck 39,Balloon,66.0
+39,Deck 39,Freeze,66.0
+39,Deck 39,Giant,66.0
+39,Deck 39,Minion Horde,66.0
+39,Deck 39,Minions,66.0
+39,Deck 39,Skeleton Army,66.0
+39,Deck 39,Skeletons,66.0
+40,Deck 40,Goblin Drill,66.0
+40,Deck 40,Golden Knight,66.0
+40,Deck 40,Lightning,66.0
+40,Deck 40,Magic Archer,66.0
+40,Deck 40,Royal Delivery,66.0
+40,Deck 40,Skeleton Army,66.0
+40,Deck 40,Three Musketeers,66.0
+40,Deck 40,Witch,66.0
+41,Deck 41,Fireball,66.0
+41,Deck 41,Guards,66.0
+41,Deck 41,Miner,66.0
+41,Deck 41,Minions,66.0
+41,Deck 41,Mortar,66.0
+41,Deck 41,Mother Witch,66.0
+41,Deck 41,Royal Ghost,66.0
+41,Deck 41,The Log,66.0
+42,Deck 42,Arrows,66.0
+42,Deck 42,Baby Dragon,66.0
+42,Deck 42,Battle Healer,66.0
+42,Deck 42,Elixir Golem,66.0
+42,Deck 42,Heal Spirit,66.0
+42,Deck 42,Mini P.E.K.K.A,66.0
+42,Deck 42,Monk,66.0
+42,Deck 42,Witch,66.0
+43,Deck 43,Arrows,66.0
+43,Deck 43,Baby Dragon,66.0
+43,Deck 43,Balloon,66.0
+43,Deck 43,Lava Hound,66.0
+43,Deck 43,Minion Horde,66.0
+43,Deck 43,Minions,66.0
+43,Deck 43,Valkyrie,66.0
+43,Deck 43,Vines,66.0
+44,Deck 44,Fireball,66.0
+44,Deck 44,Goblin Curse,66.0
+44,Deck 44,Guards,66.0
+44,Deck 44,Inferno Dragon,66.0
+44,Deck 44,Lava Hound,66.0
+44,Deck 44,Miner,66.0
+44,Deck 44,Minions,66.0
+44,Deck 44,Zap,66.0
+45,Deck 45,Archers,66.0
+45,Deck 45,Berserker,66.0
+45,Deck 45,Ice Spirit,66.0
+45,Deck 45,Mortar,66.0
+45,Deck 45,Rocket,66.0
+45,Deck 45,Skeletons,66.0
+45,Deck 45,The Log,66.0
+45,Deck 45,Tornado,66.0
+46,Deck 46,Arrows,66.0
+46,Deck 46,Bandit,66.0
+46,Deck 46,Battle Ram,66.0
+46,Deck 46,Executioner,66.0
+46,Deck 46,Golden Knight,66.0
+46,Deck 46,Minions,66.0
+46,Deck 46,P.E.K.K.A,66.0
+46,Deck 46,Royal Ghost,66.0
+47,Deck 47,Ice Wizard,66.0
+47,Deck 47,Knight,66.0
+47,Deck 47,Rocket,66.0
+47,Deck 47,Skeletons,66.0
+47,Deck 47,Tesla,66.0
+47,Deck 47,The Log,66.0
+47,Deck 47,Tornado,66.0
+47,Deck 47,X-Bow,66.0
+48,Deck 48,Arrows,66.0
+48,Deck 48,Barbarian Barrel,66.0
+48,Deck 48,Battle Ram,66.0
+48,Deck 48,Electro Wizard,66.0
+48,Deck 48,Golden Knight,66.0
+48,Deck 48,Minions,66.0
+48,Deck 48,P.E.K.K.A,66.0
+48,Deck 48,Royal Ghost,66.0
+49,Deck 49,Fireball,66.0
+49,Deck 49,Giant Skeleton,66.0
+49,Deck 49,Hog Rider,66.0
+49,Deck 49,Knight,66.0
+49,Deck 49,Skeleton Army,66.0
+49,Deck 49,The Log,66.0
+49,Deck 49,Tornado,66.0
+49,Deck 49,Wizard,66.0
+50,Deck 50,Archer Queen,66.0
+50,Deck 50,Barbarian Barrel,66.0
+50,Deck 50,Cannon,66.0
+50,Deck 50,Ice Spirit,66.0
+50,Deck 50,Miner,66.0
+50,Deck 50,Poison,66.0
+50,Deck 50,Skeletons,66.0
+50,Deck 50,Valkyrie,66.0
+51,Deck 51,Arrows,66.0
+51,Deck 51,Battle Healer,66.0
+51,Deck 51,Electro Dragon,66.0
+51,Deck 51,Elixir Golem,66.0
+51,Deck 51,Fireball,66.0
+51,Deck 51,Mirror,66.0
+51,Deck 51,Three Musketeers,66.0
+51,Deck 51,Valkyrie,66.0
+52,Deck 52,Arrows,66.0
+52,Deck 52,Bats,66.0
+52,Deck 52,Giant,66.0
+52,Deck 52,Mini P.E.K.K.A,66.0
+52,Deck 52,Minion Horde,66.0
+52,Deck 52,Skeleton Army,66.0
+52,Deck 52,Sparky,66.0
+52,Deck 52,Zap,66.0
+53,Deck 53,Baby Dragon,64.11
+53,Deck 53,Balloon,64.11
+53,Deck 53,Fireball,64.11
+53,Deck 53,Guards,64.11
+53,Deck 53,Lava Hound,64.11
+53,Deck 53,Mega Minion,64.11
+53,Deck 53,Valkyrie,64.11
+53,Deck 53,Vines,64.11
+54,Deck 54,Golden Knight,63.78
+54,Deck 54,Miner,63.78
+54,Deck 54,Minion Horde,63.78
+54,Deck 54,Mortar,63.78
+54,Deck 54,Mother Witch,63.78
+54,Deck 54,Royal Ghost,63.78
+54,Deck 54,Skeleton Army,63.78
+54,Deck 54,Vines,63.78
+55,Deck 55,Barbarian Barrel,63.66
+55,Deck 55,Cannon,63.66
+55,Deck 55,Goblinstein,63.66
+55,Deck 55,Graveyard,63.66
+55,Deck 55,Guards,63.66
+55,Deck 55,Ice Wizard,63.66
+55,Deck 55,Knight,63.66
+55,Deck 55,Poison,63.66
+56,Deck 56,Barbarian Barrel,63.52
+56,Deck 56,Battle Healer,63.52
+56,Deck 56,Electro Dragon,63.52
+56,Deck 56,Elixir Collector,63.52
+56,Deck 56,Golem,63.52
+56,Deck 56,Lumberjack,63.52
+56,Deck 56,Skeleton Dragons,63.52
+56,Deck 56,Tornado,63.52
+57,Deck 57,Bowler,63.44
+57,Deck 57,Executioner,63.44
+57,Deck 57,Freeze,63.44
+57,Deck 57,Golden Knight,63.44
+57,Deck 57,Graveyard,63.44
+57,Deck 57,Inferno Dragon,63.44
+57,Deck 57,Tornado,63.44
+57,Deck 57,Zappies,63.44
+58,Deck 58,Bandit,63.36
+58,Deck 58,Elite Barbarians,63.36
+58,Deck 58,Elixir Collector,63.36
+58,Deck 58,Heal Spirit,63.36
+58,Deck 58,Ice Golem,63.36
+58,Deck 58,Royal Ghost,63.36
+58,Deck 58,Three Musketeers,63.36
+58,Deck 58,Zap,63.36
+59,Deck 59,Barbarian Barrel,63.31
+59,Deck 59,Heal Spirit,63.31
+59,Deck 59,Hunter,63.31
+59,Deck 59,Ice Golem,63.31
+59,Deck 59,Royal Ghost,63.31
+59,Deck 59,Royal Hogs,63.31
+59,Deck 59,Three Musketeers,63.31
+59,Deck 59,Vines,63.31
+60,Deck 60,Barbarian Barrel,63.3
+60,Deck 60,Dart Goblin,63.3
+60,Deck 60,Fireball,63.3
+60,Deck 60,Guards,63.3
+60,Deck 60,Knight,63.3
+60,Deck 60,Minions,63.3
+60,Deck 60,Mortar,63.3
+60,Deck 60,Skeleton Barrel,63.3
+61,Deck 61,Barbarian Barrel,63.28
+61,Deck 61,Electro Spirit,63.28
+61,Deck 61,Fireball,63.28
+61,Deck 61,Fisherman,63.28
+61,Deck 61,Hunter,63.28
+61,Deck 61,Royal Ghost,63.28
+61,Deck 61,Royal Giant,63.28
+61,Deck 61,Skeletons,63.28
+62,Deck 62,Barbarian Barrel,62.99
+62,Deck 62,Golden Knight,62.99
+62,Deck 62,Heal Spirit,62.99
+62,Deck 62,Hunter,62.99
+62,Deck 62,Ice Golem,62.99
+62,Deck 62,Royal Ghost,62.99
+62,Deck 62,Royal Hogs,62.99
+62,Deck 62,Three Musketeers,62.99
+63,Deck 63,Executioner,62.82
+63,Deck 63,Goblin Hut,62.82
+63,Deck 63,Graveyard,62.82
+63,Deck 63,Guards,62.82
+63,Deck 63,Ice Spirit,62.82
+63,Deck 63,Knight,62.82
+63,Deck 63,Poison,62.82
+63,Deck 63,Vines,62.82
+64,Deck 64,Baby Dragon,62.79
+64,Deck 64,Barbarian Barrel,62.79
+64,Deck 64,Bowler,62.79
+64,Deck 64,Electro Giant,62.79
+64,Deck 64,Goblin Cage,62.79
+64,Deck 64,Lightning,62.79
+64,Deck 64,Skeletons,62.79
+64,Deck 64,Tornado,62.79
+65,Deck 65,Arrows,62.47
+65,Deck 65,Cannon Cart,62.47
+65,Deck 65,Goblin Gang,62.47
+65,Deck 65,Ice Wizard,62.47
+65,Deck 65,Mortar,62.47
+65,Deck 65,Skeleton Barrel,62.47
+65,Deck 65,Skeleton King,62.47
+65,Deck 65,Spear Goblins,62.47
+66,Deck 66,Arrows,62.42
+66,Deck 66,Bats,62.42
+66,Deck 66,Cannon Cart,62.42
+66,Deck 66,Goblin Gang,62.42
+66,Deck 66,Miner,62.42
+66,Deck 66,Mortar,62.42
+66,Deck 66,Skeleton King,62.42
+66,Deck 66,Spear Goblins,62.42
+67,Deck 67,Baby Dragon,62.36
+67,Deck 67,Barbarian Barrel,62.36
+67,Deck 67,Golem,62.36
+67,Deck 67,Lightning,62.36
+67,Deck 67,Mini P.E.K.K.A,62.36
+67,Deck 67,Minions,62.36
+67,Deck 67,Royal Ghost,62.36
+67,Deck 67,Zappies,62.36
+68,Deck 68,Arrows,62.2
+68,Deck 68,Balloon,62.2
+68,Deck 68,Bats,62.2
+68,Deck 68,Bomber,62.2
+68,Deck 68,Freeze,62.2
+68,Deck 68,Giant,62.2
+68,Deck 68,Minions,62.2
+68,Deck 68,Skeletons,62.2
+69,Deck 69,Baby Dragon,62.13
+69,Deck 69,Barbarian Barrel,62.13
+69,Deck 69,Battle Healer,62.13
+69,Deck 69,Dark Prince,62.13
+69,Deck 69,Electro Dragon,62.13
+69,Deck 69,Elixir Golem,62.13
+69,Deck 69,Monk,62.13
+69,Deck 69,Tornado,62.13
+70,Deck 70,Dark Prince,61.89
+70,Deck 70,Elixir Collector,61.89
+70,Deck 70,Heal Spirit,61.89
+70,Deck 70,Mini P.E.K.K.A,61.89
+70,Deck 70,Minions,61.89
+70,Deck 70,Rage,61.89
+70,Deck 70,Royal Hogs,61.89
+70,Deck 70,Skeletons,61.89
+72,Deck 72,Battle Healer,61.68
+72,Deck 72,Bowler,61.68
+72,Deck 72,Electro Dragon,61.68
+72,Deck 72,Elixir Golem,61.68
+72,Deck 72,Phoenix,61.68
+72,Deck 72,Royal Ghost,61.68
+72,Deck 72,The Log,61.68
+72,Deck 72,Tornado,61.68
+73,Deck 73,Arrows,61.52
+73,Deck 73,Bomb Tower,61.52
+73,Deck 73,Goblin Drill,61.52
+73,Deck 73,Golden Knight,61.52
+73,Deck 73,Lightning,61.52
+73,Deck 73,Skeleton Army,61.52
+73,Deck 73,Three Musketeers,61.52
+73,Deck 73,Witch,61.52
+74,Deck 74,Baby Dragon,61.47
+74,Deck 74,Barbarian Barrel,61.47
+74,Deck 74,Bowler,61.47
+74,Deck 74,Cannon,61.47
+74,Deck 74,Electro Giant,61.47
+74,Deck 74,Knight,61.47
+74,Deck 74,Lightning,61.47
+74,Deck 74,Tornado,61.47
+75,Deck 75,Boss Bandit,61.44
+75,Deck 75,Elite Barbarians,61.44
+75,Deck 75,Executioner,61.44
+75,Deck 75,Freeze,61.44
+75,Deck 75,Guards,61.44
+75,Deck 75,Hog Rider,61.44
+75,Deck 75,Minion Horde,61.44
+75,Deck 75,Tornado,61.44
+76,Deck 76,Barbarian Barrel,61.23
+76,Deck 76,Goblin Hut,61.23
+76,Deck 76,Ice Wizard,61.23
+76,Deck 76,Mighty Miner,61.23
+76,Deck 76,Rascals,61.23
+76,Deck 76,Royal Hogs,61.23
+76,Deck 76,Skeleton Barrel,61.23
+76,Deck 76,Vines,61.23
+77,Deck 77,Dart Goblin,61.12
+77,Deck 77,Miner,61.12
+77,Deck 77,Minion Horde,61.12
+77,Deck 77,Skeleton Army,61.12
+77,Deck 77,Skeleton Barrel,61.12
+77,Deck 77,Skeleton King,61.12
+77,Deck 77,Vines,61.12
+77,Deck 77,Wall Breakers,61.12
+78,Deck 78,Barbarian Barrel,61.12
+78,Deck 78,Berserker,61.12
+78,Deck 78,Furnace,61.12
+78,Deck 78,Goblin Hut,61.12
+78,Deck 78,Graveyard,61.12
+78,Deck 78,Poison,61.12
+78,Deck 78,Valkyrie,61.12
+78,Deck 78,Vines,61.12
+79,Deck 79,Archers,60.22
+79,Deck 79,Arrows,60.22
+79,Deck 79,Barbarians,60.22
+79,Deck 79,Bowler,60.22
+79,Deck 79,Giant,60.22
+79,Deck 79,Giant Snowball,60.22
+79,Deck 79,Graveyard,60.22
+79,Deck 79,Night Witch,60.22
+80,Deck 80,Executioner,60.21
+80,Deck 80,Giant,60.21
+80,Deck 80,Giant Snowball,60.21
+80,Deck 80,Ice Spirit,60.21
+80,Deck 80,Mighty Miner,60.21
+80,Deck 80,Ram Rider,60.21
+80,Deck 80,Royal Ghost,60.21
+80,Deck 80,Tombstone,60.21
+81,Deck 81,Executioner,60.21
+81,Deck 81,Firecracker,60.21
+81,Deck 81,Giant Skeleton,60.21
+81,Deck 81,Mirror,60.21
+81,Deck 81,Poison,60.21
+81,Deck 81,Rocket,60.21
+81,Deck 81,Three Musketeers,60.21
+81,Deck 81,Tornado,60.21
+82,Deck 82,Barbarian Barrel,60.2
+82,Deck 82,Electro Spirit,60.2
+82,Deck 82,Goblin Hut,60.2
+82,Deck 82,Ice Wizard,60.2
+82,Deck 82,Lightning,60.2
+82,Deck 82,Mighty Miner,60.2
+82,Deck 82,Royal Hogs,60.2
+82,Deck 82,Skeletons,60.2
+83,Deck 83,Barbarian Barrel,60.18
+83,Deck 83,Bomber,60.18
+83,Deck 83,Boss Bandit,60.18
+83,Deck 83,Executioner,60.18
+83,Deck 83,Giant Snowball,60.18
+83,Deck 83,Mini P.E.K.K.A,60.18
+83,Deck 83,Ram Rider,60.18
+83,Deck 83,Vines,60.18
+84,Deck 84,Arrows,60.14
+84,Deck 84,Flying Machine,60.14
+84,Deck 84,Furnace,60.14
+84,Deck 84,Goblin Cage,60.14
+84,Deck 84,Golden Knight,60.14
+84,Deck 84,Heal Spirit,60.14
+84,Deck 84,Royal Hogs,60.14
+84,Deck 84,Royal Recruits,60.14
+85,Deck 85,Elixir Golem,60.11
+85,Deck 85,Executioner,60.11
+85,Deck 85,Firecracker,60.11
+85,Deck 85,Mirror,60.11
+85,Deck 85,Poison,60.11
+85,Deck 85,Rocket,60.11
+85,Deck 85,Three Musketeers,60.11
+85,Deck 85,Tornado,60.11
+86,Deck 86,Arrows,60.1
+86,Deck 86,Goblin Cage,60.1
+86,Deck 86,Lava Hound,60.1
+86,Deck 86,Lightning,60.1
+86,Deck 86,Minions,60.1
+86,Deck 86,Skeletons,60.1
+86,Deck 86,Spirit Empress,60.1
+86,Deck 86,Valkyrie,60.1
+87,Deck 87,Arrows,60.06
+87,Deck 87,Bomber,60.06
+87,Deck 87,Fisherman,60.06
+87,Deck 87,Giant Skeleton,60.06
+87,Deck 87,Mother Witch,60.06
+87,Deck 87,Royal Hogs,60.06
+87,Deck 87,Skeleton Army,60.06
+87,Deck 87,Zappies,60.06
+88,Deck 88,Bowler,60.03
+88,Deck 88,Firecracker,60.03
+88,Deck 88,Freeze,60.03
+88,Deck 88,Giant Skeleton,60.03
+88,Deck 88,Goblin Drill,60.03
+88,Deck 88,Monk,60.03
+88,Deck 88,Rocket,60.03
+88,Deck 88,Tornado,60.03
+89,Deck 89,Cannon Cart,60.01
+89,Deck 89,Electro Wizard,60.01
+89,Deck 89,Giant Snowball,60.01
+89,Deck 89,Goblin Drill,60.01
+89,Deck 89,Golden Knight,60.01
+89,Deck 89,Magic Archer,60.01
+89,Deck 89,Royal Ghost,60.01
+89,Deck 89,Skeletons,60.01
+90,Deck 90,Barbarian Barrel,59.88
+90,Deck 90,Goblin Hut,59.88
+90,Deck 90,Miner,59.88
+90,Deck 90,Minions,59.88
+90,Deck 90,Poison,59.88
+90,Deck 90,Skeleton Army,59.88
+90,Deck 90,Skeleton King,59.88
+90,Deck 90,Wall Breakers,59.88
+91,Deck 91,Barbarian Barrel,59.85
+91,Deck 91,Cannon,59.85
+91,Deck 91,Dart Goblin,59.85
+91,Deck 91,Fireball,59.85
+91,Deck 91,Goblinstein,59.85
+91,Deck 91,Royal Ghost,59.85
+91,Deck 91,Skeleton Barrel,59.85
+91,Deck 91,Wall Breakers,59.85
+93,Deck 93,Dart Goblin,59.72
+93,Deck 93,Goblin Demolisher,59.72
+93,Deck 93,Miner,59.72
+93,Deck 93,Minion Horde,59.72
+93,Deck 93,Mortar,59.72
+93,Deck 93,Skeleton Army,59.72
+93,Deck 93,Skeleton King,59.72
+93,Deck 93,Vines,59.72
+95,Deck 95,Dark Prince,59.55
+95,Deck 95,Electro Spirit,59.55
+95,Deck 95,Fireball,59.55
+95,Deck 95,Fisherman,59.55
+95,Deck 95,Hunter,59.55
+95,Deck 95,Royal Giant,59.55
+95,Deck 95,Skeletons,59.55
+95,Deck 95,The Log,59.55
+96,Deck 96,Graveyard,59.51
+96,Deck 96,Guards,59.51
+96,Deck 96,Ice Spirit,59.51
+96,Deck 96,Knight,59.51
+96,Deck 96,Poison,59.51
+96,Deck 96,Tesla,59.51
+96,Deck 96,Vines,59.51
+96,Deck 96,Witch,59.51
+97,Deck 97,Barbarian Barrel,59.45
+97,Deck 97,Goblin Hut,59.45
+97,Deck 97,Ice Wizard,59.45
+97,Deck 97,Miner,59.45
+97,Deck 97,Poison,59.45
+97,Deck 97,Skeleton Army,59.45
+97,Deck 97,Skeleton King,59.45
+97,Deck 97,Wall Breakers,59.45
+98,Deck 98,Arrows,59.36
+98,Deck 98,Giant,59.36
+98,Deck 98,Goblinstein,59.36
+98,Deck 98,Mini P.E.K.K.A,59.36
+98,Deck 98,Royal Ghost,59.36
+98,Deck 98,Sparky,59.36
+98,Deck 98,Vines,59.36
+98,Deck 98,Wizard,59.36
+99,Deck 99,Barbarians,59.35
+99,Deck 99,Berserker,59.35
+99,Deck 99,Electro Spirit,59.35
+99,Deck 99,Fire Spirit,59.35
+99,Deck 99,Heal Spirit,59.35
+99,Deck 99,Ice Spirit,59.35
+99,Deck 99,Mirror,59.35
+99,Deck 99,Skeletons,59.35
+101,Deck 101,Battle Healer,59.24
+101,Deck 101,Electro Dragon,59.24
+101,Deck 101,Elixir Golem,59.24
+101,Deck 101,Firecracker,59.24
+101,Deck 101,Mirror,59.24
+101,Deck 101,Poison,59.24
+101,Deck 101,Princess,59.24
+101,Deck 101,Three Musketeers,59.24
+102,Deck 102,Dart Goblin,59.18
+102,Deck 102,Electro Spirit,59.18
+102,Deck 102,Goblin Gang,59.18
+102,Deck 102,Mini P.E.K.K.A,59.18
+102,Deck 102,Princess,59.18
+102,Deck 102,Skeleton Barrel,59.18
+102,Deck 102,Suspicious Bush,59.18
+102,Deck 102,Wall Breakers,59.18
+103,Deck 103,Cannon,59.13
+103,Deck 103,Goblin Curse,59.13
+103,Deck 103,Ice Spirit,59.13
+103,Deck 103,Miner,59.13
+103,Deck 103,Minions,59.13
+103,Deck 103,Rage,59.13
+103,Deck 103,Royal Ghost,59.13
+103,Deck 103,Skeletons,59.13
+104,Deck 104,Cannon,59.12
+104,Deck 104,Goblin Barrel,59.12
+104,Deck 104,Goblins,59.12
+104,Deck 104,Ice Spirit,59.12
+104,Deck 104,Mighty Miner,59.12
+104,Deck 104,Princess,59.12
+104,Deck 104,Rocket,59.12
+104,Deck 104,The Log,59.12
+105,Deck 105,Boss Bandit,59.08
+105,Deck 105,Dart Goblin,59.08
+105,Deck 105,Goblin Barrel,59.08
+105,Deck 105,Goblin Gang,59.08
+105,Deck 105,Goblin Hut,59.08
+105,Deck 105,Royal Recruits,59.08
+105,Deck 105,Skeleton Barrel,59.08
+105,Deck 105,Vines,59.08
+106,Deck 106,Barbarian Barrel,59.01
+106,Deck 106,Furnace,59.01
+106,Deck 106,Goblin Hut,59.01
+106,Deck 106,Graveyard,59.01
+106,Deck 106,Poison,59.01
+106,Deck 106,Skeleton Army,59.01
+106,Deck 106,Skeleton King,59.01
+106,Deck 106,Vines,59.01
+107,Deck 107,Dart Goblin,58.92
+107,Deck 107,Fire Spirit,58.92
+107,Deck 107,Ice Spirit,58.92
+107,Deck 107,Minions,58.92
+107,Deck 107,Skeleton Army,58.92
+107,Deck 107,Skeleton Barrel,58.92
+107,Deck 107,Skeleton King,58.92
+107,Deck 107,Wall Breakers,58.92
+108,Deck 108,Giant Skeleton,58.77
+108,Deck 108,Guards,58.77
+108,Deck 108,Hog Rider,58.77
+108,Deck 108,Ice Spirit,58.77
+108,Deck 108,Ice Wizard,58.77
+108,Deck 108,Mega Minion,58.77
+108,Deck 108,Poison,58.77
+108,Deck 108,The Log,58.77
+109,Deck 109,Barbarian Barrel,58.77
+109,Deck 109,Bats,58.77
+109,Deck 109,Goblin Hut,58.77
+109,Deck 109,Miner,58.77
+109,Deck 109,Poison,58.77
+109,Deck 109,Skeleton Army,58.77
+109,Deck 109,Skeleton King,58.77
+109,Deck 109,Wall Breakers,58.77
+110,Deck 110,Baby Dragon,58.77
+110,Deck 110,Barbarian Barrel,58.77
+110,Deck 110,Cannon,58.77
+110,Deck 110,Electro Giant,58.77
+110,Deck 110,Executioner,58.77
+110,Deck 110,Golden Knight,58.77
+110,Deck 110,Lightning,58.77
+110,Deck 110,Tornado,58.77
+111,Deck 111,Electro Spirit,58.65
+111,Deck 111,Fisherman,58.65
+111,Deck 111,Hunter,58.65
+111,Deck 111,Lightning,58.65
+111,Deck 111,Royal Ghost,58.65
+111,Deck 111,Royal Giant,58.65
+111,Deck 111,Skeletons,58.65
+111,Deck 111,The Log,58.65
+112,Deck 112,Berserker,58.59
+112,Deck 112,Dart Goblin,58.59
+112,Deck 112,Golden Knight,58.59
+112,Deck 112,Ice Spirit,58.59
+112,Deck 112,Rascals,58.59
+112,Deck 112,Skeleton Army,58.59
+112,Deck 112,Skeleton Barrel,58.59
+112,Deck 112,Vines,58.59
+113,Deck 113,Barbarian Barrel,58.56
+113,Deck 113,Goblin Cage,58.56
+113,Deck 113,Goblinstein,58.56
+113,Deck 113,Graveyard,58.56
+113,Deck 113,Ice Wizard,58.56
+113,Deck 113,Minions,58.56
+113,Deck 113,Poison,58.56
+113,Deck 113,Valkyrie,58.56
+114,Deck 114,Dark Prince,58.55
+114,Deck 114,Elixir Collector,58.55
+114,Deck 114,Giant,58.55
+114,Deck 114,Mini P.E.K.K.A,58.55
+114,Deck 114,Prince,58.55
+114,Deck 114,Royal Ghost,58.55
+114,Deck 114,Vines,58.55
+114,Deck 114,Witch,58.55
+115,Deck 115,Baby Dragon,58.55
+115,Deck 115,Fireball,58.55
+115,Deck 115,Lava Hound,58.55
+115,Deck 115,Minions,58.55
+115,Deck 115,Spirit Empress,58.55
+115,Deck 115,Tombstone,58.55
+115,Deck 115,Valkyrie,58.55
+115,Deck 115,Zap,58.55
+116,Deck 116,Goblin Hut,58.48
+116,Deck 116,Miner,58.48
+116,Deck 116,Minions,58.48
+116,Deck 116,Poison,58.48
+116,Deck 116,Royal Ghost,58.48
+116,Deck 116,Skeletons,58.48
+116,Deck 116,Void,58.48
+116,Deck 116,Wall Breakers,58.48
+117,Deck 117,Electro Spirit,58.43
+117,Deck 117,Fire Spirit,58.43
+117,Deck 117,Heal Spirit,58.43
+117,Deck 117,Ice Spirit,58.43
+117,Deck 117,Knight,58.43
+117,Deck 117,Mirror,58.43
+117,Deck 117,Skeletons,58.43
+117,Deck 117,X-Bow,58.43
+118,Deck 118,Fireball,58.41
+118,Deck 118,Freeze,58.41
+118,Deck 118,Giant Snowball,58.41
+118,Deck 118,Lightning,58.41
+118,Deck 118,Mirror,58.41
+118,Deck 118,Rocket,58.41
+118,Deck 118,Three Musketeers,58.41
+118,Deck 118,Tornado,58.41
+119,Deck 119,Bomber,58.37
+119,Deck 119,Fireball,58.37
+119,Deck 119,Giant,58.37
+119,Deck 119,Ice Spirit,58.37
+119,Deck 119,Knight,58.37
+119,Deck 119,Mega Minion,58.37
+119,Deck 119,Prince,58.37
+119,Deck 119,Rage,58.37
+120,Deck 120,Archer Queen,58.19
+120,Deck 120,Cannon,58.19
+120,Deck 120,Earthquake,58.19
+120,Deck 120,Ice Spirit,58.19
+120,Deck 120,Royal Delivery,58.19
+120,Deck 120,Royal Hogs,58.19
+120,Deck 120,Skeletons,58.19
+120,Deck 120,The Log,58.19
+121,Deck 121,Arrows,58.18
+121,Deck 121,Baby Dragon,58.18
+121,Deck 121,Barbarian Barrel,58.18
+121,Deck 121,Dark Prince,58.18
+121,Deck 121,Flying Machine,58.18
+121,Deck 121,Golem,58.18
+121,Deck 121,Minions,58.18
+121,Deck 121,Royal Ghost,58.18
+122,Deck 122,Arrows,58.06
+122,Deck 122,Balloon,58.06
+122,Deck 122,Bats,58.06
+122,Deck 122,Freeze,58.06
+122,Deck 122,Giant,58.06
+122,Deck 122,Minion Horde,58.06
+122,Deck 122,Minions,58.06
+122,Deck 122,Skeletons,58.06
+123,Deck 123,Baby Dragon,58.04
+123,Deck 123,Barbarian Barrel,58.04
+123,Deck 123,Golem,58.04
+123,Deck 123,Lightning,58.04
+123,Deck 123,Mini P.E.K.K.A,58.04
+123,Deck 123,Royal Ghost,58.04
+123,Deck 123,Skeleton Dragons,58.04
+123,Deck 123,Zappies,58.04
+124,Deck 124,Balloon,58.01
+124,Deck 124,Barbarian Barrel,58.01
+124,Deck 124,Electro Dragon,58.01
+124,Deck 124,Freeze,58.01
+124,Deck 124,Ice Wizard,58.01
+124,Deck 124,Lumberjack,58.01
+124,Deck 124,P.E.K.K.A,58.01
+124,Deck 124,Tornado,58.01
+125,Deck 125,Bomb Tower,58.0
+125,Deck 125,Dart Goblin,58.0
+125,Deck 125,Rascals,58.0
+125,Deck 125,Royal Ghost,58.0
+125,Deck 125,Skeleton Barrel,58.0
+125,Deck 125,The Log,58.0
+125,Deck 125,Vines,58.0
+125,Deck 125,Wall Breakers,58.0
+126,Deck 126,Baby Dragon,57.93
+126,Deck 126,Battle Healer,57.93
+126,Deck 126,Elixir Collector,57.93
+126,Deck 126,Golem,57.93
+126,Deck 126,Mini P.E.K.K.A,57.93
+126,Deck 126,Valkyrie,57.93
+126,Deck 126,Vines,57.93
+126,Deck 126,Zappies,57.93
+127,Deck 127,Cannon,57.92
+127,Deck 127,Dart Goblin,57.92
+127,Deck 127,Goblin Barrel,57.92
+127,Deck 127,Guards,57.92
+127,Deck 127,Rascals,57.92
+127,Deck 127,Royal Ghost,57.92
+127,Deck 127,The Log,57.92
+127,Deck 127,Wall Breakers,57.92
+129,Deck 129,Barbarian Barrel,57.85
+129,Deck 129,Bomb Tower,57.85
+129,Deck 129,Dart Goblin,57.85
+129,Deck 129,Mighty Miner,57.85
+129,Deck 129,Rascals,57.85
+129,Deck 129,Skeleton Barrel,57.85
+129,Deck 129,Vines,57.85
+129,Deck 129,Wall Breakers,57.85
+130,Deck 130,Arrows,57.82
+130,Deck 130,Barbarian Barrel,57.82
+130,Deck 130,Goblin Cage,57.82
+130,Deck 130,Golden Knight,57.82
+130,Deck 130,Ice Wizard,57.82
+130,Deck 130,Phoenix,57.82
+130,Deck 130,Royal Hogs,57.82
+130,Deck 130,Royal Recruits,57.82
+131,Deck 131,Barbarian Barrel,57.82
+131,Deck 131,Electro Spirit,57.82
+131,Deck 131,Executioner,57.82
+131,Deck 131,Fisherman,57.82
+131,Deck 131,Royal Ghost,57.82
+131,Deck 131,Royal Giant,57.82
+131,Deck 131,Skeletons,57.82
+131,Deck 131,Vines,57.82
+132,Deck 132,Baby Dragon,57.69
+132,Deck 132,Executioner,57.69
+132,Deck 132,Golden Knight,57.69
+132,Deck 132,Golem,57.69
+132,Deck 132,Mini P.E.K.K.A,57.69
+132,Deck 132,Tornado,57.69
+132,Deck 132,Vines,57.69
+132,Deck 132,Zappies,57.69
+133,Deck 133,Arrows,57.34
+133,Deck 133,Bomb Tower,57.34
+133,Deck 133,Giant Snowball,57.34
+133,Deck 133,Goblinstein,57.34
+133,Deck 133,Graveyard,57.34
+133,Deck 133,Guards,57.34
+133,Deck 133,Knight,57.34
+133,Deck 133,Musketeer,57.34
+134,Deck 134,Barbarian Barrel,57.27
+134,Deck 134,Cannon Cart,57.27
+134,Deck 134,Fireball,57.27
+134,Deck 134,Goblin Gang,57.27
+134,Deck 134,Ice Wizard,57.27
+134,Deck 134,Mortar,57.27
+134,Deck 134,Skeleton Barrel,57.27
+134,Deck 134,Skeleton King,57.27
+135,Deck 135,Barbarian Barrel,57.22
+135,Deck 135,Bomb Tower,57.22
+135,Deck 135,Dart Goblin,57.22
+135,Deck 135,Rascals,57.22
+135,Deck 135,Royal Ghost,57.22
+135,Deck 135,Skeleton Barrel,57.22
+135,Deck 135,Vines,57.22
+135,Deck 135,Wall Breakers,57.22
+136,Deck 136,Executioner,57.2
+136,Deck 136,Golden Knight,57.2
+136,Deck 136,Golem,57.2
+136,Deck 136,Mini P.E.K.K.A,57.2
+136,Deck 136,Royal Ghost,57.2
+136,Deck 136,Tornado,57.2
+136,Deck 136,Vines,57.2
+136,Deck 136,Zappies,57.2
+137,Deck 137,Arrows,57.2
+137,Deck 137,Boss Bandit,57.2
+137,Deck 137,Goblin Gang,57.2
+137,Deck 137,Ice Wizard,57.2
+137,Deck 137,Miner,57.2
+137,Deck 137,Minions,57.2
+137,Deck 137,Mortar,57.2
+137,Deck 137,Royal Ghost,57.2
+138,Deck 138,Bowler,57.11
+138,Deck 138,Fireball,57.11
+138,Deck 138,Firecracker,57.11
+138,Deck 138,Goblin Drill,57.11
+138,Deck 138,Inferno Tower,57.11
+138,Deck 138,Knight,57.11
+138,Deck 138,Royal Delivery,57.11
+138,Deck 138,Tornado,57.11
+139,Deck 139,Baby Dragon,57.1
+139,Deck 139,Barbarian Barrel,57.1
+139,Deck 139,Golem,57.1
+139,Deck 139,Mini P.E.K.K.A,57.1
+139,Deck 139,Minions,57.1
+139,Deck 139,Valkyrie,57.1
+139,Deck 139,Vines,57.1
+139,Deck 139,Zappies,57.1
+140,Deck 140,Barbarian Barrel,56.94
+140,Deck 140,Fireball,56.94
+140,Deck 140,Flying Machine,56.94
+140,Deck 140,Goblin Cage,56.94
+140,Deck 140,Goblin Gang,56.94
+140,Deck 140,Ice Wizard,56.94
+140,Deck 140,Royal Ghost,56.94
+140,Deck 140,Royal Hogs,56.94
+141,Deck 141,Arrows,56.87
+141,Deck 141,Bomber,56.87
+141,Deck 141,Golden Knight,56.87
+141,Deck 141,Hog Rider,56.87
+141,Deck 141,Inferno Dragon,56.87
+141,Deck 141,Lightning,56.87
+141,Deck 141,Mega Knight,56.87
+141,Deck 141,Spirit Empress,56.87
+142,Deck 142,Elite Barbarians,56.81
+142,Deck 142,Elixir Collector,56.81
+142,Deck 142,Golden Knight,56.81
+142,Deck 142,Heal Spirit,56.81
+142,Deck 142,Ice Golem,56.81
+142,Deck 142,Royal Ghost,56.81
+142,Deck 142,Three Musketeers,56.81
+142,Deck 142,Zap,56.81
+143,Deck 143,Baby Dragon,56.76
+143,Deck 143,Barbarian Barrel,56.76
+143,Deck 143,Bowler,56.76
+143,Deck 143,Electro Giant,56.76
+143,Deck 143,Goblin Cage,56.76
+143,Deck 143,Golden Knight,56.76
+143,Deck 143,Lightning,56.76
+143,Deck 143,Tornado,56.76
+144,Deck 144,Archers,56.75
+144,Deck 144,Electro Spirit,56.75
+144,Deck 144,Fireball,56.75
+144,Deck 144,Knight,56.75
+144,Deck 144,Skeletons,56.75
+144,Deck 144,Tesla,56.75
+144,Deck 144,The Log,56.75
+144,Deck 144,X-Bow,56.75
+145,Deck 145,Arrows,56.7
+145,Deck 145,Barbarian Barrel,56.7
+145,Deck 145,Electro Spirit,56.7
+145,Deck 145,Flying Machine,56.7
+145,Deck 145,Goblin Cage,56.7
+145,Deck 145,Royal Hogs,56.7
+145,Deck 145,Royal Recruits,56.7
+145,Deck 145,Zappies,56.7
+146,Deck 146,Arrows,56.63
+146,Deck 146,Baby Dragon,56.63
+146,Deck 146,Battle Healer,56.63
+146,Deck 146,Bomber,56.63
+146,Deck 146,Elixir Golem,56.63
+146,Deck 146,Mini P.E.K.K.A,56.63
+146,Deck 146,Monk,56.63
+146,Deck 146,Witch,56.63
+147,Deck 147,Goblin Demolisher,56.56
+147,Deck 147,Miner,56.56
+147,Deck 147,Minion Horde,56.56
+147,Deck 147,Minions,56.56
+147,Deck 147,Mortar,56.56
+147,Deck 147,Skeleton Army,56.56
+147,Deck 147,Skeleton King,56.56
+147,Deck 147,Vines,56.56
+148,Deck 148,Cannon,56.43
+148,Deck 148,Ice Spirit,56.43
+148,Deck 148,Knight,56.43
+148,Deck 148,Little Prince,56.43
+148,Deck 148,Miner,56.43
+148,Deck 148,Rocket,56.43
+148,Deck 148,Skeletons,56.43
+148,Deck 148,The Log,56.43
+149,Deck 149,Berserker,56.3
+149,Deck 149,Bomber,56.3
+149,Deck 149,Cannon,56.3
+149,Deck 149,Fire Spirit,56.3
+149,Deck 149,Giant Snowball,56.3
+149,Deck 149,Goblin Drill,56.3
+149,Deck 149,Rocket,56.3
+149,Deck 149,Skeletons,56.3
+150,Deck 150,Barbarian Barrel,56.22
+150,Deck 150,Cannon,56.22
+150,Deck 150,Electro Spirit,56.22
+150,Deck 150,Hog Rider,56.22
+150,Deck 150,Ice Wizard,56.22
+150,Deck 150,Lightning,56.22
+150,Deck 150,Minions,56.22
+150,Deck 150,Royal Ghost,56.22
+151,Deck 151,Cannon,56.21
+151,Deck 151,Firecracker,56.21
+151,Deck 151,Golem,56.21
+151,Deck 151,Hog Rider,56.21
+151,Deck 151,Ice Wizard,56.21
+151,Deck 151,Knight,56.21
+151,Deck 151,Skeleton Army,56.21
+151,Deck 151,The Log,56.21
+152,Deck 152,Arrows,56.07
+152,Deck 152,Inferno Dragon,56.07
+152,Deck 152,Lava Hound,56.07
+152,Deck 152,Miner,56.07
+152,Deck 152,Minion Horde,56.07
+152,Deck 152,Minions,56.07
+152,Deck 152,Valkyrie,56.07
+152,Deck 152,Vines,56.07
+153,Deck 153,Balloon,55.81
+153,Deck 153,Giant Snowball,55.81
+153,Deck 153,Ice Golem,55.81
+153,Deck 153,Ice Spirit,55.81
+153,Deck 153,Lumberjack,55.81
+153,Deck 153,Minions,55.81
+153,Deck 153,Musketeer,55.81
+153,Deck 153,The Log,55.81
+154,Deck 154,Berserker,55.72
+154,Deck 154,Cannon,55.72
+154,Deck 154,Furnace,55.72
+154,Deck 154,Giant Snowball,55.72
+154,Deck 154,Goblin Drill,55.72
+154,Deck 154,Poison,55.72
+154,Deck 154,Royal Delivery,55.72
+154,Deck 154,Skeletons,55.72
+155,Deck 155,Barbarian Barrel,55.66
+155,Deck 155,Fireball,55.66
+155,Deck 155,Heal Spirit,55.66
+155,Deck 155,Hunter,55.66
+155,Deck 155,Ice Golem,55.66
+155,Deck 155,Royal Ghost,55.66
+155,Deck 155,Royal Hogs,55.66
+155,Deck 155,Three Musketeers,55.66
+156,Deck 156,Berserker,55.55
+156,Deck 156,Bomber,55.55
+156,Deck 156,Cannon,55.55
+156,Deck 156,Fire Spirit,55.55
+156,Deck 156,Giant Snowball,55.55
+156,Deck 156,Goblin Drill,55.55
+156,Deck 156,Poison,55.55
+156,Deck 156,Skeletons,55.55
+157,Deck 157,Baby Dragon,55.19
+157,Deck 157,Battle Healer,55.19
+157,Deck 157,Elixir Collector,55.19
+157,Deck 157,Executioner,55.19
+157,Deck 157,Golem,55.19
+157,Deck 157,Mini P.E.K.K.A,55.19
+157,Deck 157,Tornado,55.19
+157,Deck 157,Vines,55.19
+158,Deck 158,Barbarian Barrel,54.78
+158,Deck 158,Goblin Cage,54.78
+158,Deck 158,Goblinstein,54.78
+158,Deck 158,Graveyard,54.78
+158,Deck 158,Guards,54.78
+158,Deck 158,Ice Wizard,54.78
+158,Deck 158,Poison,54.78
+158,Deck 158,Valkyrie,54.78
+159,Deck 159,Boss Bandit,54.37
+159,Deck 159,Elite Barbarians,54.37
+159,Deck 159,Executioner,54.37
+159,Deck 159,Freeze,54.37
+159,Deck 159,Guards,54.37
+159,Deck 159,Hog Rider,54.37
+159,Deck 159,Minion Horde,54.37
+159,Deck 159,Zap,54.37
+160,Deck 160,Balloon,54.34
+160,Deck 160,Fireball,54.34
+160,Deck 160,Goblin Cage,54.34
+160,Deck 160,Ice Golem,54.34
+160,Deck 160,Inferno Dragon,54.34
+160,Deck 160,Mega Minion,54.34
+160,Deck 160,Miner,54.34
+160,Deck 160,Zap,54.34
+161,Deck 161,Baby Dragon,54.25
+161,Deck 161,Barbarian Barrel,54.25
+161,Deck 161,Bowler,54.25
+161,Deck 161,Electro Giant,54.25
+161,Deck 161,Goblin Hut,54.25
+161,Deck 161,Knight,54.25
+161,Deck 161,Lightning,54.25
+161,Deck 161,Tornado,54.25
+162,Deck 162,Baby Dragon,54.1
+162,Deck 162,Balloon,54.1
+162,Deck 162,Fireball,54.1
+162,Deck 162,Lava Hound,54.1
+162,Deck 162,Mega Minion,54.1
+162,Deck 162,Tombstone,54.1
+162,Deck 162,Valkyrie,54.1
+162,Deck 162,Vines,54.1
+163,Deck 163,Barbarian Barrel,53.84
+163,Deck 163,Cannon,53.84
+163,Deck 163,Dart Goblin,53.84
+163,Deck 163,Princess,53.84
+163,Deck 163,Rascals,53.84
+163,Deck 163,Royal Ghost,53.84
+163,Deck 163,Skeleton Barrel,53.84
+163,Deck 163,Wall Breakers,53.84
+164,Deck 164,Barbarian Barrel,53.62
+164,Deck 164,Goblin Hut,53.62
+164,Deck 164,Graveyard,53.62
+164,Deck 164,Knight,53.62
+164,Deck 164,Phoenix,53.62
+164,Deck 164,Poison,53.62
+164,Deck 164,Skeletons,53.62
+164,Deck 164,Vines,53.62
+165,Deck 165,Bats,53.5
+165,Deck 165,Dart Goblin,53.5
+165,Deck 165,Fire Spirit,53.5
+165,Deck 165,Ice Spirit,53.5
+165,Deck 165,Skeleton Army,53.5
+165,Deck 165,Skeleton Barrel,53.5
+165,Deck 165,Skeleton King,53.5
+165,Deck 165,Wall Breakers,53.5
+166,Deck 166,Miner,53.31
+166,Deck 166,Minion Horde,53.31
+166,Deck 166,Mortar,53.31
+166,Deck 166,Mother Witch,53.31
+166,Deck 166,Royal Ghost,53.31
+166,Deck 166,Skeleton Army,53.31
+166,Deck 166,Skeleton King,53.31
+166,Deck 166,Vines,53.31
+167,Deck 167,Bomber,52.77
+167,Deck 167,Dark Prince,52.77
+167,Deck 167,Giant,52.77
+167,Deck 167,Lightning,52.77
+167,Deck 167,Mega Minion,52.77
+167,Deck 167,Prince,52.77
+167,Deck 167,Rage,52.77
+167,Deck 167,Zap,52.77
+168,Deck 168,Balloon,52.43
+168,Deck 168,Cannon,52.43
+168,Deck 168,Executioner,52.43
+168,Deck 168,Guards,52.43
+168,Deck 168,Miner,52.43
+168,Deck 168,Tornado,52.43
+168,Deck 168,Valkyrie,52.43
+168,Deck 168,Vines,52.43
+169,Deck 169,Fireball,51.46
+169,Deck 169,Lava Hound,51.46
+169,Deck 169,Minions,51.46
+169,Deck 169,Skeleton Army,51.46
+169,Deck 169,Spirit Empress,51.46
+169,Deck 169,Tombstone,51.46
+169,Deck 169,Valkyrie,51.46
+169,Deck 169,Vines,51.46
+170,Deck 170,Cannon,51.46
+170,Deck 170,Fireball,51.46
+170,Deck 170,Hog Rider,51.46
+170,Deck 170,Ice Golem,51.46
+170,Deck 170,Ice Spirit,51.46
+170,Deck 170,Musketeer,51.46
+170,Deck 170,Skeletons,51.46
+170,Deck 170,The Log,51.46
+171,Deck 171,Arrows,51.36
+171,Deck 171,Battle Ram,51.36
+171,Deck 171,Golden Knight,51.36
+171,Deck 171,Hunter,51.36
+171,Deck 171,Mother Witch,51.36
+171,Deck 171,P.E.K.K.A,51.36
+171,Deck 171,Royal Ghost,51.36
+171,Deck 171,Zap,51.36
+172,Deck 172,Baby Dragon,51.15
+172,Deck 172,Barbarian Barrel,51.15
+172,Deck 172,Berserker,51.15
+172,Deck 172,Elixir Collector,51.15
+172,Deck 172,Golem,51.15
+172,Deck 172,Mini P.E.K.K.A,51.15
+172,Deck 172,Vines,51.15
+172,Deck 172,Witch,51.15
+174,Deck 174,Cannon,51.04
+174,Deck 174,Earthquake,51.04
+174,Deck 174,Firecracker,51.04
+174,Deck 174,Hog Rider,51.04
+174,Deck 174,Ice Spirit,51.04
+174,Deck 174,Mighty Miner,51.04
+174,Deck 174,Skeletons,51.04
+174,Deck 174,The Log,51.04
+175,Deck 175,Barbarian Barrel,50.91
+175,Deck 175,Electro Wizard,50.91
+175,Deck 175,Giant Snowball,50.91
+175,Deck 175,Golden Knight,50.91
+175,Deck 175,Inferno Dragon,50.91
+175,Deck 175,Mega Knight,50.91
+175,Deck 175,Poison,50.91
+175,Deck 175,Ram Rider,50.91
+176,Deck 176,Dart Goblin,50.91
+176,Deck 176,Electro Spirit,50.91
+176,Deck 176,Goblin Barrel,50.91
+176,Deck 176,Goblin Gang,50.91
+176,Deck 176,Inferno Tower,50.91
+176,Deck 176,Knight,50.91
+176,Deck 176,Princess,50.91
+176,Deck 176,The Log,50.91
+177,Deck 177,Barbarian Barrel,50.8
+177,Deck 177,Bomb Tower,50.8
+177,Deck 177,Dart Goblin,50.8
+177,Deck 177,Fireball,50.8
+177,Deck 177,Goblinstein,50.8
+177,Deck 177,Royal Ghost,50.8
+177,Deck 177,Skeleton Barrel,50.8
+177,Deck 177,Wall Breakers,50.8
+178,Deck 178,Dart Goblin,50.77
+178,Deck 178,Miner,50.77
+178,Deck 178,Minion Horde,50.77
+178,Deck 178,Skeleton Army,50.77
+178,Deck 178,Skeleton Barrel,50.77
+178,Deck 178,Skeleton King,50.77
+178,Deck 178,The Log,50.77
+178,Deck 178,Wall Breakers,50.77
+179,Deck 179,Arrows,50.72
+179,Deck 179,Dart Goblin,50.72
+179,Deck 179,Goblin Gang,50.72
+179,Deck 179,Mighty Miner,50.72
+179,Deck 179,Royal Recruits,50.72
+179,Deck 179,Skeletons,50.72
+179,Deck 179,Suspicious Bush,50.72
+179,Deck 179,Wall Breakers,50.72
+180,Deck 180,Archer Queen,50.54
+180,Deck 180,Fire Spirit,50.54
+180,Deck 180,Goblin Curse,50.54
+180,Deck 180,Goblin Hut,50.54
+180,Deck 180,Guards,50.54
+180,Deck 180,Miner,50.54
+180,Deck 180,Valkyrie,50.54
+180,Deck 180,Zap,50.54
+181,Deck 181,Dart Goblin,50.41
+181,Deck 181,Electro Spirit,50.41
+181,Deck 181,Goblin Barrel,50.41
+181,Deck 181,Guards,50.41
+181,Deck 181,Mighty Miner,50.41
+181,Deck 181,The Log,50.41
+181,Deck 181,Vines,50.41
+181,Deck 181,Wall Breakers,50.41
+182,Deck 182,Dart Goblin,50.34
+182,Deck 182,Guards,50.34
+182,Deck 182,Mother Witch,50.34
+182,Deck 182,Skeleton Army,50.34
+182,Deck 182,Skeleton Barrel,50.34
+182,Deck 182,Skeleton King,50.34
+182,Deck 182,Vines,50.34
+182,Deck 182,Wall Breakers,50.34
+183,Deck 183,Firecracker,50.3
+183,Deck 183,Knight,50.3
+183,Deck 183,Mortar,50.3
+183,Deck 183,Rocket,50.3
+183,Deck 183,Skeletons,50.3
+183,Deck 183,Spear Goblins,50.3
+183,Deck 183,The Log,50.3
+183,Deck 183,Tornado,50.3
+184,Deck 184,Cannon,50.28
+184,Deck 184,Executioner,50.28
+184,Deck 184,Hog Rider,50.28
+184,Deck 184,Knight,50.28
+184,Deck 184,Rocket,50.28
+184,Deck 184,Skeletons,50.28
+184,Deck 184,The Log,50.28
+184,Deck 184,Tornado,50.28
+185,Deck 185,Archer Queen,50.26
+185,Deck 185,Earthquake,50.26
+185,Deck 185,Ice Spirit,50.26
+185,Deck 185,Royal Delivery,50.26
+185,Deck 185,Royal Hogs,50.26
+185,Deck 185,Skeletons,50.26
+185,Deck 185,Tesla,50.26
+185,Deck 185,The Log,50.26
+186,Deck 186,Arrows,50.12
+186,Deck 186,Cannon Cart,50.12
+186,Deck 186,Goblin Gang,50.12
+186,Deck 186,Goblinstein,50.12
+186,Deck 186,Miner,50.12
+186,Deck 186,Minions,50.12
+186,Deck 186,Mortar,50.12
+186,Deck 186,Royal Ghost,50.12
+187,Deck 187,Barbarian Barrel,49.99
+187,Deck 187,Electro Wizard,49.99
+187,Deck 187,Executioner,49.99
+187,Deck 187,Giant Skeleton,49.99
+187,Deck 187,Goblin Drill,49.99
+187,Deck 187,Golden Knight,49.99
+187,Deck 187,Royal Ghost,49.99
+187,Deck 187,Tornado,49.99
+188,Deck 188,Balloon,49.98
+188,Deck 188,Electro Spirit,49.98
+188,Deck 188,Fire Spirit,49.98
+188,Deck 188,Freeze,49.98
+188,Deck 188,Ice Spirit,49.98
+188,Deck 188,Skeletons,49.98
+188,Deck 188,Tornado,49.98
+188,Deck 188,Wall Breakers,49.98
+189,Deck 189,Elixir Golem,49.81
+189,Deck 189,Executioner,49.81
+189,Deck 189,Goblin Machine,49.81
+189,Deck 189,Night Witch,49.81
+189,Deck 189,Rage,49.81
+189,Deck 189,Skeleton Army,49.81
+189,Deck 189,Skeleton King,49.81
+189,Deck 189,Vines,49.81
+190,Deck 190,Barbarian Barrel,49.79
+190,Deck 190,Cannon,49.79
+190,Deck 190,Goblinstein,49.79
+190,Deck 190,Graveyard,49.79
+190,Deck 190,Mega Minion,49.79
+190,Deck 190,Poison,49.79
+190,Deck 190,Skeletons,49.79
+190,Deck 190,Vines,49.79
+191,Deck 191,Baby Dragon,49.71
+191,Deck 191,Balloon,49.71
+191,Deck 191,Fireball,49.71
+191,Deck 191,Giant,49.71
+191,Deck 191,Mega Minion,49.71
+191,Deck 191,Mini P.E.K.K.A,49.71
+191,Deck 191,Valkyrie,49.71
+191,Deck 191,Vines,49.71
+192,Deck 192,Arrows,49.65
+192,Deck 192,Bandit,49.65
+192,Deck 192,Battle Ram,49.65
+192,Deck 192,Electro Wizard,49.65
+192,Deck 192,Fireball,49.65
+192,Deck 192,Minions,49.65
+192,Deck 192,P.E.K.K.A,49.65
+192,Deck 192,Royal Ghost,49.65
+193,Deck 193,Bats,49.53
+193,Deck 193,Fire Spirit,49.53
+193,Deck 193,Ice Golem,49.53
+193,Deck 193,Ice Spirit,49.53
+193,Deck 193,Royal Ghost,49.53
+193,Deck 193,Skeletons,49.53
+193,Deck 193,Tornado,49.53
+193,Deck 193,Wall Breakers,49.53
+194,Deck 194,Bandit,49.52
+194,Deck 194,Elite Barbarians,49.52
+194,Deck 194,Elixir Collector,49.52
+194,Deck 194,Golden Knight,49.52
+194,Deck 194,Heal Spirit,49.52
+194,Deck 194,Royal Ghost,49.52
+194,Deck 194,Three Musketeers,49.52
+194,Deck 194,Zap,49.52
+195,Deck 195,Arrows,49.51
+195,Deck 195,Boss Bandit,49.51
+195,Deck 195,Dart Goblin,49.51
+195,Deck 195,Goblin Gang,49.51
+195,Deck 195,Miner,49.51
+195,Deck 195,Minions,49.51
+195,Deck 195,Mortar,49.51
+195,Deck 195,Royal Ghost,49.51
+196,Deck 196,Arrows,49.49
+196,Deck 196,Battle Healer,49.49
+196,Deck 196,Elixir Golem,49.49
+196,Deck 196,Firecracker,49.49
+196,Deck 196,Mirror,49.49
+196,Deck 196,Poison,49.49
+196,Deck 196,Royal Recruits,49.49
+196,Deck 196,Three Musketeers,49.49
+197,Deck 197,Dart Goblin,49.39
+197,Deck 197,Fire Spirit,49.39
+197,Deck 197,Ice Spirit,49.39
+197,Deck 197,Skeleton Army,49.39
+197,Deck 197,Skeleton Barrel,49.39
+197,Deck 197,Skeleton King,49.39
+197,Deck 197,Vines,49.39
+197,Deck 197,Wall Breakers,49.39
+198,Deck 198,Dark Prince,49.32
+198,Deck 198,Electro Spirit,49.32
+198,Deck 198,Miner,49.32
+198,Deck 198,Rocket,49.32
+198,Deck 198,Royal Delivery,49.32
+198,Deck 198,Skeletons,49.32
+198,Deck 198,Tesla,49.32
+198,Deck 198,The Log,49.32
+199,Deck 199,Barbarian Barrel,49.32
+199,Deck 199,Goblin Hut,49.32
+199,Deck 199,Graveyard,49.32
+199,Deck 199,Ice Wizard,49.32
+199,Deck 199,Knight,49.32
+199,Deck 199,Poison,49.32
+199,Deck 199,Skeletons,49.32
+199,Deck 199,Witch,49.32
+201,Deck 201,Baby Dragon,49.21
+201,Deck 201,Balloon,49.21
+201,Deck 201,Barbarian Barrel,49.21
+201,Deck 201,Berserker,49.21
+201,Deck 201,Giant Snowball,49.21
+201,Deck 201,Goblin Cage,49.21
+201,Deck 201,Ice Golem,49.21
+201,Deck 201,Miner,49.21
+202,Deck 202,Arrows,49.18
+202,Deck 202,Cannon Cart,49.18
+202,Deck 202,Goblin Gang,49.18
+202,Deck 202,Ice Wizard,49.18
+202,Deck 202,Minions,49.18
+202,Deck 202,Mortar,49.18
+202,Deck 202,Skeleton Barrel,49.18
+202,Deck 202,Skeleton King,49.18
+203,Deck 203,Fireball,49.14
+203,Deck 203,Giant Snowball,49.14
+203,Deck 203,Goblin Barrel,49.14
+203,Deck 203,Goblin Drill,49.14
+203,Deck 203,Lightning,49.14
+203,Deck 203,Mini P.E.K.K.A,49.14
+203,Deck 203,Rocket,49.14
+203,Deck 203,Three Musketeers,49.14
+204,Deck 204,Archer Queen,49.11
+204,Deck 204,Barbarian Barrel,49.11
+204,Deck 204,Fireball,49.11
+204,Deck 204,Minions,49.11
+204,Deck 204,Mortar,49.11
+204,Deck 204,Skeleton Barrel,49.11
+204,Deck 204,Skeletons,49.11
+204,Deck 204,Valkyrie,49.11
+205,Deck 205,Baby Dragon,49.0
+205,Deck 205,Battle Healer,49.0
+205,Deck 205,Elixir Collector,49.0
+205,Deck 205,Fireball,49.0
+205,Deck 205,Golem,49.0
+205,Deck 205,Mini P.E.K.K.A,49.0
+205,Deck 205,Valkyrie,49.0
+205,Deck 205,Zappies,49.0
+206,Deck 206,Dart Goblin,48.94
+206,Deck 206,Electro Spirit,48.94
+206,Deck 206,Mother Witch,48.94
+206,Deck 206,Skeleton Army,48.94
+206,Deck 206,Skeleton Barrel,48.94
+206,Deck 206,Skeleton King,48.94
+206,Deck 206,Vines,48.94
+206,Deck 206,Wall Breakers,48.94
+207,Deck 207,Baby Dragon,48.87
+207,Deck 207,Elixir Collector,48.87
+207,Deck 207,Golden Knight,48.87
+207,Deck 207,Golem,48.87
+207,Deck 207,Mini P.E.K.K.A,48.87
+207,Deck 207,Royal Ghost,48.87
+207,Deck 207,Vines,48.87
+207,Deck 207,Zappies,48.87
+208,Deck 208,Archer Queen,48.85
+208,Deck 208,Barbarian Barrel,48.85
+208,Deck 208,Goblin Hut,48.85
+208,Deck 208,Miner,48.85
+208,Deck 208,Poison,48.85
+208,Deck 208,Royal Ghost,48.85
+208,Deck 208,Skeletons,48.85
+208,Deck 208,Wall Breakers,48.85
+209,Deck 209,Baby Dragon,48.82
+209,Deck 209,Balloon,48.82
+209,Deck 209,Berserker,48.82
+209,Deck 209,Bomber,48.82
+209,Deck 209,Electro Spirit,48.82
+209,Deck 209,Freeze,48.82
+209,Deck 209,Knight,48.82
+209,Deck 209,Tornado,48.82
+210,Deck 210,Battle Healer,48.81
+210,Deck 210,Electro Dragon,48.81
+210,Deck 210,Elixir Golem,48.81
+210,Deck 210,Executioner,48.81
+210,Deck 210,Mirror,48.81
+210,Deck 210,Poison,48.81
+210,Deck 210,Three Musketeers,48.81
+210,Deck 210,Valkyrie,48.81
+211,Deck 211,Bandit,48.78
+211,Deck 211,Battle Ram,48.78
+211,Deck 211,Electro Wizard,48.78
+211,Deck 211,Fireball,48.78
+211,Deck 211,P.E.K.K.A,48.78
+211,Deck 211,Royal Ghost,48.78
+211,Deck 211,Skeleton Dragons,48.78
+211,Deck 211,Zap,48.78
+212,Deck 212,Archer Queen,48.75
+212,Deck 212,Goblins,48.75
+212,Deck 212,Ice Spirit,48.75
+212,Deck 212,Miner,48.75
+212,Deck 212,Rocket,48.75
+212,Deck 212,Tesla,48.75
+212,Deck 212,The Log,48.75
+212,Deck 212,Valkyrie,48.75
+213,Deck 213,Baby Dragon,48.71
+213,Deck 213,Barbarian Barrel,48.71
+213,Deck 213,Elixir Collector,48.71
+213,Deck 213,Elixir Golem,48.71
+213,Deck 213,Mini P.E.K.K.A,48.71
+213,Deck 213,Three Musketeers,48.71
+213,Deck 213,Valkyrie,48.71
+213,Deck 213,Vines,48.71
+214,Deck 214,Balloon,48.2
+214,Deck 214,Barbarian Barrel,48.2
+214,Deck 214,Bowler,48.2
+214,Deck 214,Electro Dragon,48.2
+214,Deck 214,Freeze,48.2
+214,Deck 214,Inferno Dragon,48.2
+214,Deck 214,Lumberjack,48.2
+214,Deck 214,Tornado,48.2
+215,Deck 215,Barbarian Barrel,48.14
+215,Deck 215,Goblin Hut,48.14
+215,Deck 215,Ice Wizard,48.14
+215,Deck 215,Mighty Miner,48.14
+215,Deck 215,Miner,48.14
+215,Deck 215,Poison,48.14
+215,Deck 215,Skeletons,48.14
+215,Deck 215,Wall Breakers,48.14
+216,Deck 216,Barbarian Barrel,47.89
+216,Deck 216,Cannon,47.89
+216,Deck 216,Earthquake,47.89
+216,Deck 216,Electro Spirit,47.89
+216,Deck 216,Furnace,47.89
+216,Deck 216,Hog Rider,47.89
+216,Deck 216,Mighty Miner,47.89
+216,Deck 216,Skeletons,47.89
+217,Deck 217,Dart Goblin,47.82
+217,Deck 217,Fireball,47.82
+217,Deck 217,Goblin Drill,47.82
+217,Deck 217,Inferno Tower,47.82
+217,Deck 217,Skeleton Army,47.82
+217,Deck 217,Skeleton King,47.82
+217,Deck 217,The Log,47.82
+217,Deck 217,Wall Breakers,47.82
+218,Deck 218,Balloon,47.22
+218,Deck 218,Barbarian Barrel,47.22
+218,Deck 218,Freeze,47.22
+218,Deck 218,Giant Snowball,47.22
+218,Deck 218,Lumberjack,47.22
+218,Deck 218,Royal Ghost,47.22
+218,Deck 218,Skeleton Dragons,47.22
+218,Deck 218,Zappies,47.22
+219,Deck 219,Barbarian Barrel,45.64
+219,Deck 219,Electro Spirit,45.64
+219,Deck 219,Goblin Hut,45.64
+219,Deck 219,Ice Wizard,45.64
+219,Deck 219,Lightning,45.64
+219,Deck 219,Royal Ghost,45.64
+219,Deck 219,Royal Hogs,45.64
+219,Deck 219,Skeletons,45.64
+221,Deck 221,Dart Goblin,44.84
+221,Deck 221,Minions,44.84
+221,Deck 221,Mother Witch,44.84
+221,Deck 221,Skeleton Army,44.84
+221,Deck 221,Skeleton Barrel,44.84
+221,Deck 221,Skeleton King,44.84
+221,Deck 221,Vines,44.84
+221,Deck 221,Wall Breakers,44.84
+222,Deck 222,Electro Wizard,43.58
+222,Deck 222,Fireball,43.58
+222,Deck 222,Fisherman,43.58
+222,Deck 222,Minions,43.58
+222,Deck 222,P.E.K.K.A,43.58
+222,Deck 222,Rage,43.58
+222,Deck 222,Ram Rider,43.58
+222,Deck 222,Royal Ghost,43.58
+223,Deck 223,Balloon,43.49
+223,Deck 223,Bats,43.49
+223,Deck 223,Executioner,43.49
+223,Deck 223,Lumberjack,43.49
+223,Deck 223,Mighty Miner,43.49
+223,Deck 223,Skeletons,43.49
+223,Deck 223,Tornado,43.49
+223,Deck 223,Vines,43.49
+224,Deck 224,Barbarian Barrel,43.44
+224,Deck 224,Cannon,43.44
+224,Deck 224,Earthquake,43.44
+224,Deck 224,Firecracker,43.44
+224,Deck 224,Hog Rider,43.44
+224,Deck 224,Ice Spirit,43.44
+224,Deck 224,Mighty Miner,43.44
+224,Deck 224,Skeletons,43.44
+225,Deck 225,Baby Dragon,43.1
+225,Deck 225,Barbarian Barrel,43.1
+225,Deck 225,Golem,43.1
+225,Deck 225,Lumberjack,43.1
+225,Deck 225,Mini P.E.K.K.A,43.1
+225,Deck 225,Minions,43.1
+225,Deck 225,Vines,43.1
+225,Deck 225,Zappies,43.1
+226,Deck 226,Arrows,42.92
+226,Deck 226,Bomber,42.92
+226,Deck 226,Golem,42.92
+226,Deck 226,Mega Minion,42.92
+226,Deck 226,Mini P.E.K.K.A,42.92
+226,Deck 226,Night Witch,42.92
+226,Deck 226,Skeleton Army,42.92
+226,Deck 226,Zap,42.92
+228,Deck 228,Baby Dragon,42.82
+228,Deck 228,Bomber,42.82
+228,Deck 228,Dark Prince,42.82
+228,Deck 228,Electro Giant,42.82
+228,Deck 228,Fire Spirit,42.82
+228,Deck 228,Goblin Cage,42.82
+228,Deck 228,Lightning,42.82
+228,Deck 228,Tornado,42.82
+229,Deck 229,Archer Queen,42.76
+229,Deck 229,Barbarian Barrel,42.76
+229,Deck 229,Cannon,42.76
+229,Deck 229,Ice Spirit,42.76
+229,Deck 229,Miner,42.76
+229,Deck 229,Poison,42.76
+229,Deck 229,Royal Ghost,42.76
+229,Deck 229,Skeletons,42.76
+230,Deck 230,Bomber,42.64
+230,Deck 230,Giant Snowball,42.64
+230,Deck 230,Graveyard,42.64
+230,Deck 230,Guards,42.64
+230,Deck 230,Inferno Tower,42.64
+230,Deck 230,Knight,42.64
+230,Deck 230,Poison,42.64
+230,Deck 230,Rascals,42.64
+232,Deck 232,Arrows,42.36
+232,Deck 232,Giant,42.36
+232,Deck 232,Mini P.E.K.K.A,42.36
+232,Deck 232,Minion Horde,42.36
+232,Deck 232,Minions,42.36
+232,Deck 232,Skeleton Army,42.36
+232,Deck 232,Sparky,42.36
+232,Deck 232,Zap,42.36
+233,Deck 233,Barbarian Barrel,42.23
+233,Deck 233,Electro Spirit,42.23
+233,Deck 233,Fisherman,42.23
+233,Deck 233,Hunter,42.23
+233,Deck 233,Lightning,42.23
+233,Deck 233,Monk,42.23
+233,Deck 233,Royal Giant,42.23
+233,Deck 233,Skeletons,42.23
+234,Deck 234,Dart Goblin,42.02
+234,Deck 234,Goblin Gang,42.02
+234,Deck 234,Mini P.E.K.K.A,42.02
+234,Deck 234,Princess,42.02
+234,Deck 234,Skeleton Barrel,42.02
+234,Deck 234,Suspicious Bush,42.02
+234,Deck 234,Vines,42.02
+234,Deck 234,Wall Breakers,42.02
+235,Deck 235,Barbarian Barrel,41.68
+235,Deck 235,Goblin Hut,41.68
+235,Deck 235,Mega Minion,41.68
+235,Deck 235,Mighty Miner,41.68
+235,Deck 235,Rascals,41.68
+235,Deck 235,Royal Hogs,41.68
+235,Deck 235,Skeleton Barrel,41.68
+235,Deck 235,Vines,41.68
+236,Deck 236,Fireball,41.67
+236,Deck 236,Goblin Curse,41.67
+236,Deck 236,Inferno Dragon,41.67
+236,Deck 236,Lava Hound,41.67
+236,Deck 236,Miner,41.67
+236,Deck 236,Minions,41.67
+236,Deck 236,Skeleton Army,41.67
+236,Deck 236,Zap,41.67
+237,Deck 237,Berserker,41.5
+237,Deck 237,Boss Bandit,41.5
+237,Deck 237,Electro Wizard,41.5
+237,Deck 237,Fireball,41.5
+237,Deck 237,Goblin Gang,41.5
+237,Deck 237,Mortar,41.5
+237,Deck 237,Skeleton Barrel,41.5
+237,Deck 237,The Log,41.5
+238,Deck 238,Bomber,41.42
+238,Deck 238,Fireball,41.42
+238,Deck 238,Giant,41.42
+238,Deck 238,Lumberjack,41.42
+238,Deck 238,Mega Minion,41.42
+238,Deck 238,Prince,41.42
+238,Deck 238,Rage,41.42
+238,Deck 238,Zap,41.42
+239,Deck 239,Cannon,41.37
+239,Deck 239,Dart Goblin,41.37
+239,Deck 239,Goblin Barrel,41.37
+239,Deck 239,Goblin Gang,41.37
+239,Deck 239,Golden Knight,41.37
+239,Deck 239,Ice Spirit,41.37
+239,Deck 239,Lightning,41.37
+239,Deck 239,The Log,41.37
+240,Deck 240,Arrows,41.0
+240,Deck 240,Baby Dragon,41.0
+240,Deck 240,Goblin Cage,41.0
+240,Deck 240,Golem,41.0
+240,Deck 240,Lightning,41.0
+240,Deck 240,Mini P.E.K.K.A,41.0
+240,Deck 240,Valkyrie,41.0
+240,Deck 240,Zappies,41.0
+241,Deck 241,Arrows,41.0
+241,Deck 241,Barbarian Barrel,41.0
+241,Deck 241,Executioner,41.0
+241,Deck 241,Fisherman,41.0
+241,Deck 241,Goblinstein,41.0
+241,Deck 241,Mega Minion,41.0
+241,Deck 241,Ram Rider,41.0
+241,Deck 241,Royal Recruits,41.0
+242,Deck 242,Fireball,41.0
+242,Deck 242,Lava Hound,41.0
+242,Deck 242,Skeleton Army,41.0
+242,Deck 242,Skeleton Dragons,41.0
+242,Deck 242,Spirit Empress,41.0
+242,Deck 242,Tombstone,41.0
+242,Deck 242,Valkyrie,41.0
+242,Deck 242,Vines,41.0
+243,Deck 243,Arrows,41.0
+243,Deck 243,Baby Dragon,41.0
+243,Deck 243,Flying Machine,41.0
+243,Deck 243,Goblin Cage,41.0
+243,Deck 243,Guards,41.0
+243,Deck 243,Lava Hound,41.0
+243,Deck 243,Miner,41.0
+243,Deck 243,Vines,41.0
+244,Deck 244,Ice Spirit,41.0
+244,Deck 244,Knight,41.0
+244,Deck 244,Mortar,41.0
+244,Deck 244,Rocket,41.0
+244,Deck 244,Skeletons,41.0
+244,Deck 244,The Log,41.0
+244,Deck 244,Tornado,41.0
+244,Deck 244,Wizard,41.0
+245,Deck 245,Arrows,41.0
+245,Deck 245,Bats,41.0
+245,Deck 245,Bomber,41.0
+245,Deck 245,Goblinstein,41.0
+245,Deck 245,Golem,41.0
+245,Deck 245,Guards,41.0
+245,Deck 245,Lightning,41.0
+245,Deck 245,Night Witch,41.0
+246,Deck 246,Dark Prince,41.0
+246,Deck 246,Ice Spirit,41.0
+246,Deck 246,Miner,41.0
+246,Deck 246,Rocket,41.0
+246,Deck 246,Royal Delivery,41.0
+246,Deck 246,Skeletons,41.0
+246,Deck 246,Tesla,41.0
+246,Deck 246,The Log,41.0
+247,Deck 247,Baby Dragon,41.0
+247,Deck 247,Balloon,41.0
+247,Deck 247,Dark Prince,41.0
+247,Deck 247,Fireball,41.0
+247,Deck 247,Giant,41.0
+247,Deck 247,Mini P.E.K.K.A,41.0
+247,Deck 247,Musketeer,41.0
+247,Deck 247,Vines,41.0
+248,Deck 248,Baby Dragon,41.0
+248,Deck 248,Elixir Collector,41.0
+248,Deck 248,Goblin Machine,41.0
+248,Deck 248,Golem,41.0
+248,Deck 248,Mini P.E.K.K.A,41.0
+248,Deck 248,Valkyrie,41.0
+248,Deck 248,Vines,41.0
+248,Deck 248,Zappies,41.0
+249,Deck 249,Battle Healer,41.0
+249,Deck 249,Elixir Collector,41.0
+249,Deck 249,Executioner,41.0
+249,Deck 249,Golem,41.0
+249,Deck 249,Mini P.E.K.K.A,41.0
+249,Deck 249,Minions,41.0
+249,Deck 249,Valkyrie,41.0
+249,Deck 249,Vines,41.0
+250,Deck 250,Battle Healer,41.0
+250,Deck 250,Executioner,41.0
+250,Deck 250,Golem,41.0
+250,Deck 250,Mini P.E.K.K.A,41.0
+250,Deck 250,Minions,41.0
+250,Deck 250,Tornado,41.0
+250,Deck 250,Valkyrie,41.0
+250,Deck 250,Vines,41.0
+252,Deck 252,Barbarian Barrel,41.0
+252,Deck 252,Goblin Hut,41.0
+252,Deck 252,Graveyard,41.0
+252,Deck 252,Mega Minion,41.0
+252,Deck 252,Poison,41.0
+252,Deck 252,Skeletons,41.0
+252,Deck 252,Valkyrie,41.0
+252,Deck 252,Vines,41.0
+253,Deck 253,Barbarian Barrel,41.0
+253,Deck 253,Furnace,41.0
+253,Deck 253,Goblin Hut,41.0
+253,Deck 253,Graveyard,41.0
+253,Deck 253,Poison,41.0
+253,Deck 253,Skeletons,41.0
+253,Deck 253,Valkyrie,41.0
+253,Deck 253,Vines,41.0
+254,Deck 254,Berserker,41.0
+254,Deck 254,Cannon,41.0
+254,Deck 254,Electro Spirit,41.0
+254,Deck 254,Golem,41.0
+254,Deck 254,Hog Rider,41.0
+254,Deck 254,Mother Witch,41.0
+254,Deck 254,Skeleton Army,41.0
+254,Deck 254,The Log,41.0
+255,Deck 255,Bomber,41.0
+255,Deck 255,Fireball,41.0
+255,Deck 255,Giant,41.0
+255,Deck 255,Heal Spirit,41.0
+255,Deck 255,Mega Minion,41.0
+255,Deck 255,Mini P.E.K.K.A,41.0
+255,Deck 255,Royal Ghost,41.0
+255,Deck 255,Zap,41.0
+256,Deck 256,Bomber,41.0
+256,Deck 256,Fireball,41.0
+256,Deck 256,Golem,41.0
+256,Deck 256,Mega Minion,41.0
+256,Deck 256,Mini P.E.K.K.A,41.0
+256,Deck 256,Night Witch,41.0
+256,Deck 256,Skeleton Army,41.0
+256,Deck 256,Zap,41.0
+257,Deck 257,Barbarian Barrel,41.0
+257,Deck 257,Electro Spirit,41.0
+257,Deck 257,Fireball,41.0
+257,Deck 257,Flying Machine,41.0
+257,Deck 257,Goblin Hut,41.0
+257,Deck 257,Rascals,41.0
+257,Deck 257,Royal Ghost,41.0
+257,Deck 257,Royal Hogs,41.0
+258,Deck 258,Barbarian Barrel,41.0
+258,Deck 258,Electro Spirit,41.0
+258,Deck 258,Fireball,41.0
+258,Deck 258,Fisherman,41.0
+258,Deck 258,Hunter,41.0
+258,Deck 258,Monk,41.0
+258,Deck 258,Royal Giant,41.0
+258,Deck 258,Skeletons,41.0
+259,Deck 259,Boss Bandit,41.0
+259,Deck 259,Elite Barbarians,41.0
+259,Deck 259,Executioner,41.0
+259,Deck 259,Freeze,41.0
+259,Deck 259,Hog Rider,41.0
+259,Deck 259,Minion Horde,41.0
+259,Deck 259,Skeleton Army,41.0
+259,Deck 259,Tornado,41.0
+260,Deck 260,Barbarian Barrel,41.0
+260,Deck 260,Cannon,41.0
+260,Deck 260,Dart Goblin,41.0
+260,Deck 260,Mighty Miner,41.0
+260,Deck 260,Rascals,41.0
+260,Deck 260,Skeleton Barrel,41.0
+260,Deck 260,Vines,41.0
+260,Deck 260,Wall Breakers,41.0
+261,Deck 261,Barbarian Barrel,41.0
+261,Deck 261,Cannon,41.0
+261,Deck 261,Dart Goblin,41.0
+261,Deck 261,Fireball,41.0
+261,Deck 261,Minions,41.0
+261,Deck 261,Rascals,41.0
+261,Deck 261,Royal Ghost,41.0
+261,Deck 261,Royal Hogs,41.0
+262,Deck 262,Barbarian Barrel,41.0
+262,Deck 262,Cannon Cart,41.0
+262,Deck 262,Fireball,41.0
+262,Deck 262,Minions,41.0
+262,Deck 262,Mortar,41.0
+262,Deck 262,Rascals,41.0
+262,Deck 262,Skeleton Barrel,41.0
+262,Deck 262,Skeletons,41.0
+263,Deck 263,Barbarian Barrel,41.0
+263,Deck 263,Battle Ram,41.0
+263,Deck 263,Electro Wizard,41.0
+263,Deck 263,Golden Knight,41.0
+263,Deck 263,Heal Spirit,41.0
+263,Deck 263,Lumberjack,41.0
+263,Deck 263,Mother Witch,41.0
+263,Deck 263,Royal Ghost,41.0
+264,Deck 264,Cannon,41.0
+264,Deck 264,Earthquake,41.0
+264,Deck 264,Electro Spirit,41.0
+264,Deck 264,Firecracker,41.0
+264,Deck 264,Hog Rider,41.0
+264,Deck 264,Mighty Miner,41.0
+264,Deck 264,Skeletons,41.0
+264,Deck 264,The Log,41.0
+265,Deck 265,Barbarian Barrel,41.0
+265,Deck 265,Battle Ram,41.0
+265,Deck 265,Cannon Cart,41.0
+265,Deck 265,Golden Knight,41.0
+265,Deck 265,Heal Spirit,41.0
+265,Deck 265,Lumberjack,41.0
+265,Deck 265,Mother Witch,41.0
+265,Deck 265,Royal Ghost,41.0
+266,Deck 266,Cannon,41.0
+266,Deck 266,Fireball,41.0
+266,Deck 266,Ice Golem,41.0
+266,Deck 266,Ice Spirit,41.0
+266,Deck 266,Musketeer,41.0
+266,Deck 266,Royal Giant,41.0
+266,Deck 266,Skeletons,41.0
+266,Deck 266,The Log,41.0
+268,Deck 268,Bandit,41.0
+268,Deck 268,Battle Ram,41.0
+268,Deck 268,Electro Wizard,41.0
+268,Deck 268,Fireball,41.0
+268,Deck 268,Minions,41.0
+268,Deck 268,P.E.K.K.A,41.0
+268,Deck 268,Royal Ghost,41.0
+268,Deck 268,Zap,41.0
+269,Deck 269,Balloon,41.0
+269,Deck 269,Barbarians,41.0
+269,Deck 269,Fireball,41.0
+269,Deck 269,Lava Hound,41.0
+269,Deck 269,Mega Minion,41.0
+269,Deck 269,Skeleton Dragons,41.0
+269,Deck 269,Tombstone,41.0
+269,Deck 269,Zap,41.0
+270,Deck 270,Archer Queen,41.0
+270,Deck 270,Arrows,41.0
+270,Deck 270,Bandit,41.0
+270,Deck 270,Goblin Gang,41.0
+270,Deck 270,Mega Knight,41.0
+270,Deck 270,Prince,41.0
+270,Deck 270,Wall Breakers,41.0
+270,Deck 270,Zap,41.0
